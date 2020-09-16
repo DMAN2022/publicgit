@@ -7,6 +7,7 @@ Should work
 ![GIT Icon](/github-pub/media\\cat.png)
 ![GIT Icon](/github-pub\\media/cat2.png)
 ![GIT Icon](cat3.png)
+![GIT Icon](../media//cat2.png)
 
 Will not work
 ![GIT Icon](/This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2\cat4.png)
