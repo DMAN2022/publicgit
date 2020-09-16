@@ -10,8 +10,8 @@ Should work
 ![GIT Icon](../media//cat2.png)
 
 Will not work
-![GIT Icon](/This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2\cat4.png)
-![GIT Icon](\This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2\cat5.png)
-![GIT Icon](/github-pub/media\cat6.png)
+![GIT Icon](/This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2//cat4.png)
+![GIT Icon](\This-is-going-to-be-a-super%20long-title-that-hopefully-gets-displayed-properly2//cat5.png)
+![GIT Icon](/github-pub/media\\cat6.png)
 ![GIT Icon](/github-pub\media\cat4.png)
 ![GIT Icon](/github-pub\media/cat5.png)
