@@ -1,6 +1,6 @@
 ---
 titledes: Azure Traffic Manager - FAQs juhuhuhu
-description: This article provides answers to frequently asked questions about Traffic Manager
+descriptionupdated: This article provides answers to frequently asked questions about Traffic Manager
 services: traffic-manager
 documentationcenter: ''
 author: rohinkoul
