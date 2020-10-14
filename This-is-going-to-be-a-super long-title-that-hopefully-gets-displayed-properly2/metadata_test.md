@@ -4,7 +4,7 @@
 titleasdfadsf: meta and contenta at the same time asdfaasdf adafsd sdfsd
 descriptionasdfasdf: The Microsoft Intune App SDK for Android testing guide helps you test your Intune-managed Android app.
 keywords: SDK updated
-author: Erikre
+author: Erikreasdfasdf
 ms.author: erikre
 manager: dougeby
 ms.date: 01/02/2020
