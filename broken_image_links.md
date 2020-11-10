@@ -3,7 +3,7 @@
 title: Add a B2B collaboration user to a role - Azure Active Directory updating medta updated ,etadatapm ;u
 description: Add a guest user to a role in Azure Active Directory
 
-services: active-directory
+serviceasdfs: active-directory asdfasdfasdf asdfsfsdfasdf
 ms.service: active-directory
 ms.subservice: B2B
 ms.topic: conceptual
