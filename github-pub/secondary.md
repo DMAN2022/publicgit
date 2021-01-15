@@ -6,6 +6,8 @@ This image does not exist [1234](intunearchitecture.png)
 This image does not get synced [4312](intunearchitecture.svg)
 View a [asdfasdfsdfasdf](./media/intunearchitecture.svg) of the Intune architecture diagram.
 This image is a link [9j9j](image.png)
+This is another image link [black](2560x1440-black.jpg)
+Testing external [ext](https://www.google.com/logos/doodles/2021/teachers-day-2021-january-16-6753651837108839.5-2x.png)
 
 ![example !!! image](./media/intunearchitecture.svg "An exemplary image title")
 
