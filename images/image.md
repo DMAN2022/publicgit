@@ -1,6 +1,11 @@
 # testing
 
-![image alt](image.jpg)
+![image](image.jpg)
 
-[image alt](image.png)
+[link](image.png)
+
+![forward](testing//image2.jpeg)
+
+![backwards](testing\\image.jpg)
+
 
