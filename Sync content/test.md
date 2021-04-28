@@ -1,4 +1,4 @@
 Testing
 
 [alt](url)
-![alt](url)
+![alt](synced.jpg)
