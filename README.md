@@ -12,7 +12,7 @@ ms.workload: infrastructure-services
 ms.date: 02/26/2019
 ms.author: rohink
 ---
- asdsdfdfdddd content was updated la 4/28 updated
+ asdsdfdfdddd content was updated la 4/28 updatedasdfasdf
 - [Set rules on devices to allow access to your organization resources](metadata.md)
 - [Common ways to use Conditional Access with Intune](./metadata.md)
 - add some text next to it [Set rules on devices to allow access to your organization resources](metadata.md)
