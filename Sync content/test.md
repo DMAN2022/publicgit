@@ -1,4 +1,4 @@
-Testing
+image and link
 
-[alt](url)
-![alt](synced.jpg)
+[limk](another.md)
+![image](synced.jpg)
