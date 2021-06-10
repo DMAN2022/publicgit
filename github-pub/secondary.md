@@ -17,6 +17,8 @@ this file was updated in repo and should generate new version
 
 > [!VIDEO testing video.m4v]
 
+> [!VIDEO /images/testing video.mov]
+
 <iframe src="Untitled.mov" width="640" height="320" allowFullScreen="true" frameBorder="0"></iframe>
 
 View a [asdfasdfsdfasdf](/media/intunearchitecture.svg)
