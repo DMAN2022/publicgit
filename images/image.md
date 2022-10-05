@@ -1,6 +1,6 @@
 # testing
 
-![image](image.jpg)
+
 
 ![image](green.jpg)
 
